@@ -1,0 +1,7 @@
+frmSmartPhoneBackground = 50, 50, 836, 507, C, 25, 25, 969, 658, C
+frmSnapChatLogin = 150, 150, 936, 607, C, 24, 25, 810, 482, C
+frmInstagramLogin = 75, 75, 861, 532, C, 50, 50, 836, 507, C
+frmTwitterLogin = 225, 225, 1011, 682, C, 200, 200, 986, 657, C
+frmFacebookLogin = 150, 150, 936, 607, C, 125, 125, 911, 582, C
+frmYoutubeLogin = 150, 150, 936, 607, C, 125, 125, 911, 582, C
+frmWhatsappLogin = 125, 125, 911, 582, C, 100, 100, 886, 557, C
